@@ -1,5 +1,5 @@
 
-<p align="center">Resolvendo problemas com tecnologia <br><br> </p>&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -37,9 +37,10 @@
 
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-# Organização:
+# Outros:
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 
 
 &nbsp;
