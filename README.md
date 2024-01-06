@@ -2,8 +2,11 @@
 <p align="center">Resolvendo problemas com tecnologia <br><br> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=r0ssik&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-r0ssik.vercel.app/api/top-langs/?username=r0ssik&show_icons=true&theme=radical&layout=compact" />
+
+
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=r0ssik&theme=shadow_green&mode=weekly" />
+
+
  </div>
  
  &nbsp;
@@ -21,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/564x/83/c4/75/83c475488217baf6adb5e897075694d2.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Skills secundarias//Estudando no momento
 
@@ -53,4 +56,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://i.pinimg.com/564x/e0/af/8f/e0af8fcdd01ca2a048f8e824752b272a.jpg"/>
